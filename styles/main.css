@@ -10,3 +10,14 @@ header {
 h1 {
     color: white;
 }
+.image-gallery {
+    display: flex;
+    justify-content: center;
+}
+.image {
+    display: inline-block;
+    height: 200px;
+    width: 280px;
+    padding: 8px;
+    margin: 5px;
+}
